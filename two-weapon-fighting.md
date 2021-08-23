@@ -1,0 +1,2 @@
+When you take the Attack action with a light melee weapon, you can use a bonus action to attack with a different light melee weapon.
+You don't add your ability modifier to the damage of the bonus attack. Unless the modifier is negative.

@@ -1,0 +1,1 @@
+Grappling is not a regular attack, but a special option. It’s a contest: the attacker makes a Strength (Athletics) check, and the defender can choose between Strength (Athletics) and Dexterity (Acrobatics) to resist.

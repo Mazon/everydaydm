@@ -1,0 +1,1 @@
+https://colinmarc.com/dndspells/
