@@ -5,7 +5,7 @@
 |[[traps]]                |[[mounts_and_vehicles]]     |[[damage]]                  |[[Neverwinter]]     |[magic shop](https://donjon.bin.sh/5e/magic/shop.html){:target="_blank"} |[Monster Manual](http://10.0.30.2:8083/read/175/pdf){:target="_blank"}
 |[[languages]]            |[[potions]]                 |[[dying]]                   |  |[village](https://watabou.itch.io/village-generator){:target="_blank"}  | [Guide to Everything](http://10.0.30.2:8083/read/172/pdf){:target="_blank"}
 |[[cover_and_stealth]]    |[[gear]]                    |[[concentration]]           || [dungeon](https://watabou.itch.io/one-page-dungeon){:target="_blank"}
-|[[exhaustion]]           |[[food_drinks_lodging]]     |[[two-weapon-fighting]]    |                              | [[players]]
+|[[exhaustion]]           |[[food_drinks_lodging]]     |[[two-weapon-fighting]]    |                       |       | [[players]]
 |[[traveling]]            |[[lifestyle]]               |[[grappling]]               |
 |[[random_encounter_chance]]|[[containers]]            |[[shoving]]                 |
 |[[conditions]]           |[[magic_items]]             |[[readying]]                |
