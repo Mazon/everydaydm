@@ -250,6 +250,7 @@ You spend the last few days following the high road south from neverwinter, and 
 ## Enemies
 
 [[bugbear]]
+[[ghoul]]
 
 ## Magic Items
 
