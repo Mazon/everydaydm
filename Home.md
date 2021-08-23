@@ -2,7 +2,7 @@
 |-------------------------|----------------------------|----------------------------|--------------------|------
 |[[vision]]               |[[weapons]]                 |[[battlefield]]             |[[swordcoast]]      |[[random_locations]]
 |[[ability_and_skills]]   |[[armor]]                   |[[combat_rules]]            |[[tinear]] |[treasure](https://donjon.bin.sh/5e/random/#type=treasure)         
-|[[traps]]                |[[mounts_and_vehicles]]     |[[damage]]                  |[[neverwinter]]     |
+|[[traps]]                |[[mounts_and_vehicles]]     |[[damage]]                  |[[neverwinter]]     |[magic shop](https://donjon.bin.sh/5e/magic/shop.html)
 |[[languages]]            |[[potions]]                 |[[dying]]                   |
 |[[cover_and_stealth]]    |[[gear]]                    |[[concentration]]           |
 |[[exhaustion]]           |[[food_drinks_lodging]]     |[[two-weapon-fighting]]    |
