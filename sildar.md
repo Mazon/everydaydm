@@ -1,4 +1,5 @@
-![sildar](images/sildar.png)
+![sildar](lmop/images/sildar.png)
+
 Sildar Hallwinter
 Medium humanoid (human), neutral good
 
