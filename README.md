@@ -6,4 +6,6 @@ Everydaydm make use of [gollum wiki](https://github.com/gollum/gollum) a simple 
 
 # Usage
 
-Install gollum, then browse to http://localhost:4567
+1. Install gollum
+2. `cd everydaydm;gollum .`
+3. then browse to http://localhost:4567
