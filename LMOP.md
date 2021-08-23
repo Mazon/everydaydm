@@ -178,7 +178,7 @@ Releases a surge of water from the pool in area 7.  Can be done 2 times if the g
 
 *Sacks and crates of looted provisions are piled up in the south end of this large cave. To the west, the floor slopes toward a narrow opening that descends into the darkness. A larger opening leads north down a set of natural stone steps, the roar of falling water echoing from beyond. In the middle of the cavern, the coals of a large fire smolder.*
 
-## Goblin Ambush 
+# Goblin Ambush 
 
 ## Intro
 ___
@@ -201,6 +201,7 @@ ___
 A bend in the fork, tick forest on both sides with a bit of elevation on both sides that gives benefit of any enemy. Kinda muddy , well walked road that is a bit saggy after yesterday night rain.
 
 4 goblins http://localhost:3000/cards/522793328530425171
+[[goblin]]
 
 2 goblins use bow
 2 goblins use sword and melee
