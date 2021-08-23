@@ -27,9 +27,8 @@ Nezznar the black spider is there.
 
 
 
-## Locations
 
-### Neverwinter
+# Neverwinter
 
 In the city of Neverwinter, a dwarf named Gundren Rockseeker asked you to bring a wagonload  of provisions to the rough and tumble settlement of Phandalin, a couple of days travel southeast of the city.
 Gundren was clearly excited and more then a little secretive about his reason  for the trip.
@@ -76,7 +75,7 @@ A bend in the fork, tick forest on both sides with a bit of elevation on both si
 2 goblins use bow
 2 goblins use sword and melee
 
-## Goblin Trail
+# Goblin Trail
 
 ## Intro
 ---
@@ -96,39 +95,7 @@ A bend in the fork, tick forest on both sides with a bit of elevation on both si
 
 **Pit**  Another 10min, pit 6feet wide, 10feet deep. Wisdom(perception) 15 , if fall in DC Dex 10 saving throw. Fall in = 1d6 bludgeoning damage.
 
-
-### Phandalin
-
-Phandalin is an old style frontier town that has grown up around the old ruins of the abandoned town that once stood before. Most of the buildings are single story dwellings except for the Stonehill Inn which has an upstairs floor for visitors and guests of the inn. The buildings are of stone and wood frame while the entrance to town is no more than an old dirt road. There is a small area of green at the centre of housing area as well as a small orchard within the grounds of the town. The areas to the west and south include small farmsteads while the old Tresendar Manor stands dilapidated on the hill to the east overlooking the town.
-
-https://crossgoersdnd.fandom.com/wiki/Phandalin
-
-### The Spider's Web
-
-### Wave Echo Cave
-#### 1. Cave Entrance
-#### 2. Mine Tunnels
-#### 3. Old Entrance
-#### 4. Old GuardRoom
-#### 5. Assayers Office
-#### 6. South Barracks
-#### 7.  Ruined Storeroom
-#### 8. Fungi Cavern
-#### 9. Great CAvern
-#### 10 Dark Pool
-#### 11. North Barracks
-#### 12. Smelter Cavern
-#### 13. Starry Cavern
-#### 14. Wizards Quarters
-#### 15. Forge of Spells
-#### 16. Booming Cavern
-#### 17 Old Streambed
-#### 18. Collapsed Cavern
-#### 19. Temple of dumathoin
-#### 20. Priests Quarters
-
-
-## Cragmaw Hideout
+# Cragmaw Hideout
 
 The Cragmaw tribe is so named because each member of the tribe sharpens its teeth so they apear fierce and jagged.
 
@@ -224,6 +191,40 @@ Releases a surge of water from the pool in area 7.  Can be done 2 times if the g
 
 
 
+
+
+
+# Phandalin
+
+Phandalin is an old style frontier town that has grown up around the old ruins of the abandoned town that once stood before. Most of the buildings are single story dwellings except for the Stonehill Inn which has an upstairs floor for visitors and guests of the inn. The buildings are of stone and wood frame while the entrance to town is no more than an old dirt road. There is a small area of green at the centre of housing area as well as a small orchard within the grounds of the town. The areas to the west and south include small farmsteads while the old Tresendar Manor stands dilapidated on the hill to the east overlooking the town.
+
+https://crossgoersdnd.fandom.com/wiki/Phandalin
+
+# The Spider's Web
+
+# Wave Echo Cave
+#### 1. Cave Entrance
+#### 2. Mine Tunnels
+#### 3. Old Entrance
+#### 4. Old GuardRoom
+#### 5. Assayers Office
+#### 6. South Barracks
+#### 7.  Ruined Storeroom
+#### 8. Fungi Cavern
+#### 9. Great CAvern
+#### 10 Dark Pool
+#### 11. North Barracks
+#### 12. Smelter Cavern
+#### 13. Starry Cavern
+#### 14. Wizards Quarters
+#### 15. Forge of Spells
+#### 16. Booming Cavern
+#### 17 Old Streambed
+#### 18. Collapsed Cavern
+#### 19. Temple of dumathoin
+#### 20. Priests Quarters
+
+
 ## NPC
 - [[sildar]]
 - [[gundren]]
@@ -238,4 +239,3 @@ https://crossgoersdnd.fandom.com/wiki/Harbin_Wester
 [[doppelganger]]
 
 ## Magic Items
-
