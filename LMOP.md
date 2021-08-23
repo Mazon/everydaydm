@@ -53,7 +53,6 @@ You spend the last few days following the high road south from neverwinter, and 
 ___
 
 *You been on the triboar trail for about half a day. As you come around a bend, you spot two dead horses sprawled about fifty feet ahead of you, blocking your path. Each has several black feathered arrows sticking out of it. The woods press close tho the trial here, with a steep embankment and dense thickets on either side*
-___
 
 ## Objectives
 
@@ -80,8 +79,7 @@ A bend in the fork, tick forest on both sides with a bit of elevation on both si
 
 ## Intro
 ---
-`After the players defeat the goblins, any inspection of the area reveals that the creatures have used this area for ambushes for some time. You also see a trail behind some thickets on the north side of the road that leads northwest.`
-
+*After the players defeat the goblins, any inspection of the area reveals that the creatures have used this area for ambushes for some time. You also see a trail behind some thickets on the north side of the road that leads northwest.*
 ---
 
 ## Objectives
