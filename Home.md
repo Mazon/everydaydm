@@ -1,7 +1,7 @@
-| Lookup                  | Inventory                  | Combat                     | Locations          |Generator
+| Lookup                  | Inventory                  | Combat                     | Locations          |Random
 |-------------------------|----------------------------|----------------------------|--------------------|------
 |[[vision]]               |[[weapons]]                 |[[battlefield]]             |[[swordcoast]]      |[[random_locations]]
-|[[ability_and_skills]]   |[[armor]]                   |[[combat_rules]]            |[[tinear]] |[random_treasure](https://donjon.bin.sh/5e/random/#type=treasure)         
+|[[ability_and_skills]]   |[[armor]]                   |[[combat_rules]]            |[[tinear]] |[treasure](https://donjon.bin.sh/5e/random/#type=treasure)         
 |[[traps]]                |[[mounts_and_vehicles]]     |[[damage]]                  |[[neverwinter]]     |
 |[[languages]]            |[[potions]]                 |[[dying]]                   |
 |[[cover_and_stealth]]    |[[gear]]                    |[[concentration]]           |
