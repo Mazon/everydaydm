@@ -1,1 +1,1 @@
-![](images/swordcoast.jpg){:target="_blank"}
+![swordcoast](images/swordcoast.jpg){:target="_blank"}
