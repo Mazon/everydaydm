@@ -1,7 +1,7 @@
 | Lookup Tables           | Inventory                  | Combat                     | Locations          |Random
 |-------------------------|----------------------------|----------------------------|--------------------|------
-|[[vision]]               |[[weapons]]                 |[[battlefield]]             |[[swordcoast]]      |
-|[[ability_and_skills]]   |[[armor]]                   |[[combat_rules]]            |[[tinear]] |[treasure](https://donjon.bin.sh/5e/random/#type=treasure)         
+|[[vision]]               |[[weapons]]                 |[[battlefield]]             |[[swordcoast]]      | [NPCs](https://donjon.bin.sh/5e/random/#type=npc){:target="_blank"}
+|[[ability_and_skills]]   |[[armor]]                   |[[combat_rules]]            |[[tinear]] |[treasure](https://donjon.bin.sh/5e/random/#type=treasure){:target="_blank"}         
 |[[traps]]                |[[mounts_and_vehicles]]     |[[damage]]                  |[[neverwinter]]     |[magic shop](https://donjon.bin.sh/5e/magic/shop.html){:target="_blank"}
 |[[languages]]            |[[potions]]                 |[[dying]]                   |  |[village](https://watabou.itch.io/village-generator){:target="_blank"}
 |[[cover_and_stealth]]    |[[gear]]                    |[[concentration]]           || [dungeon](https://watabou.itch.io/one-page-dungeon){:target="_blank"}
