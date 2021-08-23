@@ -19,8 +19,8 @@
 |[[dodge]]| 
 |[[conversations]]| |
 
-| Books                  | Game Master                 | Adventures                  | Something                  |
-|-------------------------|----------------------------|----------------------------|----------------------------|
+| Books                  | Game Master                 | Adventures                  |
+|-------------------------|----------------------------|----------------------------|
 | [Dungeon Master Guide](http://10.0.30.2:8083/read/174/pdf){:target="_blank"}|[[players]] |[[LMOP]]
 | [Player Handbook](http://10.0.30.2:8083/read/8/pdf){:target="_blank"}|[[notes]]
 | [Monster Manual](http://10.0.30.2:8083/read/175/pdf){:target="_blank"}|[[music]]
