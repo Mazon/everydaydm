@@ -4,7 +4,7 @@
 |[[ability_and_skills]]   |[[armor]]                   |[[combat_rules]]            |[[tinear]] |[treasure](https://donjon.bin.sh/5e/random/#type=treasure)         
 |[[traps]]                |[[mounts_and_vehicles]]     |[[damage]]                  |[[neverwinter]]     |[magic shop](https://donjon.bin.sh/5e/magic/shop.html)
 |[[languages]]            |[[potions]]                 |[[dying]]                   |  |[village](https://watabou.itch.io/village-generator)
-|[[cover_and_stealth]]    |[[gear]]                    |[[concentration]]           |
+|[[cover_and_stealth]]    |[[gear]]                    |[[concentration]]           |[dungeon](https://watabou.itch.io/one-page-dungeon)
 |[[exhaustion]]           |[[food_drinks_lodging]]     |[[two-weapon-fighting]]    |
 |[[traveling]]            |[[lifestyle]]               |[[grappling]]               |
 |[[random_encounter_chance]]|[[containers]]            |[[shoving]]                 |
