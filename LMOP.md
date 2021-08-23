@@ -1,55 +1,101 @@
-## Story
-http://10.0.30.2:8083/read/181/pdf
+## Synopsis
 
+[adventure book](http://10.0.30.2:8083/read/181/pdf){:target="_blank"} 
 
-# Goblin Arrows
+### Goblin Arrows
 
 Adventures are on the road to town of Phandalin. -> Goblin Ambush -> might discover goblins(cragmaw tribe) captured dwarf friend Gundren and escort. Players must deal with ambushers and then follow trail to goblin hideout.
 
 Rescue Sildar and learn that Gundren and his brother discovered a famous lost mine. Sildar knows only that Gundren and his map have been taken to somewhere called Gragmaw Castle.
 
-
-# Phandalin
+### Phandalin
 
 Arrive at Phandalin(outpost town) -> terrorized by **Redbrands** (led by alias Glassstaff) 
 Side adventures from Phandalin
 
-# Spiders Web + Side Adventures
+### Spiders Web + Side Adventures
 Several short adventures in the region around Phandalin.
 clues point to "Grawmaw Castle" stronghold of King Grol. 
 at castle -> Black Spider = Nezznar, cragmaw goblins work for him.
 
 Get Gundrens Map, or learn location of cave.
 
-# Wave Echo Cave
+### Wave Echo Cave
 underground complex full of undead and strange monsters.
 Nezznar the black spider is there.
 
 
-## NPC
-- [[sildar]]
-- [[gundren]]
 
-https://crossgoersdnd.fandom.com/wiki/Halia_Thornton
-https://crossgoersdnd.fandom.com/wiki/Harbin_Wester
 
 ## Locations
 
-### Klarg's Cave
+### Neverwinter
 
-### Twin Pools Cave
+In the city of Neverwinter, a dwarf named Gundren Rockseeker asked you to bring a wagonload  of provisions to the rough and tumble settlement of Phandalin, a couple of days travel southeast of the city.
+Gundren was clearly excited and more then a little secretive about his reason  for the trip.
+Saying only he and his brother found something. Pay you 10gp each for escorting his supplies safely to Bathens provisions , a trading post in Phandalin. Hen then set out ahead of you on horse, along with a warrior escort named Sildar Hallwinter, claiming he needed to arrive early to "take care of business". 
+You spend the last few days following the high road south from neverwinter, and you just recently veered east along the triboar trail. You encountered no trouble so far. But this territory can be dangerous. Bandits and outlaws have been known to lurk along the trail.
 
-### Goblin Den
+## Objectives
 
-### Overpass
+- Encourage players to introduce their characters to each other.
+- Ask the players how they know thir dwarf patron , Gundren Rockseeker.
+- Ask the player to give marching order, one character need to be driving the wagon. The rest of the characters can be riding on the wagon. walking alongside, or scouting ahead, as they like.
 
-### Steep Passage
+### notes
+ 
+- Any character can drive a wagon, no skills neccassary.
+- the wagon contains: mining supplies and food. This includes dozen sacks of flour, several cask of salted pork, two kegs of strong ale, shovels, picks, and crowbars(a dozen) five lanters. Totatl value of cargo about 100gp
+- 
 
-### Cave Mouth
+# Goblin Ambush 
 
-### Kennel
+## Intro
+___
+`You been on the triboar trail for about half a day. As you come around a bend, you spot two dead horses sprawled about fifty feet ahead of you, blocking your path. Each has several black feathered arrows sticking out of it. The woods press close tho the trial here, with a steep embankment and dense thickets on either side`
+___
 
-### Goblin Blind
+## Objectives
+
+- The saddlebags have been looted. Nearby lies an empty leather map case.
+
+- If defeat: Players are left unconsicous. Robbed and steal the wagoon.
+- they are stealthy and hide between rounds, tries to hide behind trees and on a elevation. 2 goblins might run after first run to melee.
+- Goblins can suprise the players. Make one dex (stealth) check for the goblins. +6 compare to characters wisdom(Perception). Any char with lower score is suprised.
+- Goblins like to hide after they attacked using their bonus attack.
+- After 3 goblins are defeated, The last one tries to escape on goblin trail.
+
+
+## Scene
+___
+A bend in the fork, tick forest on both sides with a bit of elevation on both sides that gives benefit of any enemy. Kinda muddy , well walked road that is a bit saggy after yesterday night rain.
+
+4 goblins http://localhost:3000/cards/522793328530425171
+[[goblin]]
+
+2 goblins use bow
+2 goblins use sword and melee
+
+## Goblin Trail
+
+## Intro
+---
+`After the players defeat the goblins, any inspection of the area reveals that the creatures have used this area for ambushes for some time. You also see a trail behind some thickets on the north side of the road that leads northwest.`
+
+---
+
+## Objectives
+
+- Check: DC wisdom(survival): dozen goblins and two humanoid have been going this way.
+- trail leads 5 miles northwest.
+- Make players determine marching order.
+
+## Scene
+
+**Snare**: About 10 min on trail. Wisdom(perception) 12 if looking auto or ability check. If trigger, DC10 Dex saving throw. Otherwise suspended 3 meter up in the air. Char is restrained until, if not carefully lowered 1d6 dmg.
+
+**Pit**  Another 10min, pit 6feet wide, 10feet deep. Wisdom(perception) 15 , if fall in DC Dex 10 saving throw. Fall in = 1d6 bludgeoning damage.
+
 
 ### Phandalin
 
@@ -57,39 +103,38 @@ Phandalin is an old style frontier town that has grown up around the old ruins o
 
 https://crossgoersdnd.fandom.com/wiki/Phandalin
 
-
 ### The Spider's Web
 
-## Wave Echo Cave
-### 1. Cave Entrance
-### 2. Mine Tunnels
-### 3. Old Entrance
-### 4. Old GuardRoom
-### 5. Assayers Office
-### 6. South Barracks
-### 7.  Ruined Storeroom
-### 8. Fungi Cavern
-### 9. Great CAvern
-### 10 Dark Pool
-### 11. North Barracks
-### 12. Smelter Cavern
-### 13. Starry Cavern
-### 14. Wizards Quarters
-### 15. Forge of Spells
-### 16. Booming Cavern
-### 17 Old Streambed
-### 18. Collapsed Cavern
-### 19. Temple of dumathoin
-### 20. Priests Quarters
+### Wave Echo Cave
+#### 1. Cave Entrance
+#### 2. Mine Tunnels
+#### 3. Old Entrance
+#### 4. Old GuardRoom
+#### 5. Assayers Office
+#### 6. South Barracks
+#### 7.  Ruined Storeroom
+#### 8. Fungi Cavern
+#### 9. Great CAvern
+#### 10 Dark Pool
+#### 11. North Barracks
+#### 12. Smelter Cavern
+#### 13. Starry Cavern
+#### 14. Wizards Quarters
+#### 15. Forge of Spells
+#### 16. Booming Cavern
+#### 17 Old Streambed
+#### 18. Collapsed Cavern
+#### 19. Temple of dumathoin
+#### 20. Priests Quarters
+
+
+## Cragmaw Hideout
 
 The Cragmaw tribe is so named because each member of the tribe sharpens its teeth so they apear fierce and jagged.
-
-## Intro
 
 ### 1. Cave Mouth
 
 *Following the goblin's trail, you come across a large cave in a hillside five miles from the scene of the ambush. A shallow stream flow out of the cave mouth, which i screened by a dense briar thickets. A norrow dry path leads into the cave on the right-hand side of the stream.*
-
 
 The cragmaw cave slopes steeply upward. The entrance is at the foot of a good-sized hill, and the caves and passages are inside the hill itself.
 
@@ -145,7 +190,6 @@ If have darkvision or use light to look further up the passage.
 - dark
 - Any players carrying light. ( torch etc) the goblin will sneak to the east. Inform create Flood* Dex(Stealth) vs passive Wisdom(Perception) of any player.
 
-
 #### Western Passage
 
 Choked with rubble and has steep escarpments,. Difficult terrain. >100pounds make Dex DC10 saving throw. Take 2d6 bludgeoning damage on fail or half on success. Also goes prone on failure.
@@ -178,75 +222,15 @@ Releases a surge of water from the pool in area 7.  Can be done 2 times if the g
 
 *Sacks and crates of looted provisions are piled up in the south end of this large cave. To the west, the floor slopes toward a narrow opening that descends into the darkness. A larger opening leads north down a set of natural stone steps, the roar of falling water echoing from beyond. In the middle of the cavern, the coals of a large fire smolder.*
 
-# Goblin Ambush 
-
-## Intro
-___
-`You been on the triboar trail for about half a day. As you come around a bend, you spot two dead horses sprawled about fifty feet ahead of you, blocking your path. Each has several black feathered arrows sticking out of it. The woods press close tho the trial here, with a steep embankment and dense thickets on either side`
-___
-
-## Objectives
-
-- The saddlebags have been looted. Nearby lies an empty leather map case.
-
-- If defeat: Players are left unconsicous. Robbed and steal the wagoon.
-- they are stealthy and hide between rounds, tries to hide behind trees and on a elevation. 2 goblins might run after first run to melee.
-- Goblins can suprise the players. Make one dex (stealth) check for the goblins. +6 compare to characters wisdom(Perception). Any char with lower score is suprised.
-- Goblins like to hide after they attacked using their bonus attack.
-- After 3 goblins are defeated, The last one tries to escape on goblin trail.
 
 
-## Scene
-___
-A bend in the fork, tick forest on both sides with a bit of elevation on both sides that gives benefit of any enemy. Kinda muddy , well walked road that is a bit saggy after yesterday night rain.
+## NPC
+- [[sildar]]
+- [[gundren]]
 
-4 goblins http://localhost:3000/cards/522793328530425171
-[[goblin]]
+https://crossgoersdnd.fandom.com/wiki/Halia_Thornton
+https://crossgoersdnd.fandom.com/wiki/Harbin_Wester
 
-2 goblins use bow
-2 goblins use sword and melee
-
-## Goblin Trail
-
-## Intro
----
-`After the players defeat the goblins, any inspection of the area reveals that the creatures have used this area for ambushes for some time. You also see a trail behind some thickets on the north side of the road that leads northwest.`
-
----
-
-## Objectives
-
-- Check: DC wisdom(survival): dozen goblins and two humanoid have been going this way.
-- trail leads 5 miles northwest.
-- Make players determine marching order.
-
-## Scene
-
-**Snare**: About 10 min on trail. Wisdom(perception) 12 if looking auto or ability check. If trigger, DC10 Dex saving throw. Otherwise suspended 3 meter up in the air. Char is restrained until, if not carefully lowered 1d6 dmg.
-
-**Pit**  Another 10min, pit 6feet wide, 10feet deep. Wisdom(perception) 15 , if fall in DC Dex 10 saving throw. Fall in = 1d6 bludgeoning damage.
-
-
-## LMOP Start
-
-## Intro
-
-In the city of Neverwinter, a dwarf named Gundren Rockseeker asked you to bring a wagonload  of provisions to the rough and tumble settlement of Phandalin, a couple of days travel southeast of the city.
-Gundren was clearly excited and more then a little secretive about his reason  for the trip.
-Saying only he and his brother found something. Pay you 10gp each for escorting his supplies safely to Bathens provisions , a trading post in Phandalin. Hen then set out ahead of you on horse, along with a warrior escort named Sildar Hallwinter, claiming he needed to arrive early to "take care of business". 
-You spend the last few days following the high road south from neverwinter, and you just recently veered east along the triboar trail. You encountered no trouble so far. But this territory can be dangerous. Bandits and outlaws have been known to lurk along the trail.
-
-## Objectives
-
-- Encourage players to introduce their characters to each other.
-- Ask the players how they know thir dwarf patron , Gundren Rockseeker.
-- Ask the player to give marching order, one character need to be driving the wagon. The rest of the characters can be riding on the wagon. walking alongside, or scouting ahead, as they like.
-
-### notes
- 
-- Any character can drive a wagon, no skills neccassary.
-- the wagon contains: mining supplies and food. This includes dozen sacks of flour, several cask of salted pork, two kegs of strong ale, shovels, picks, and crowbars(a dozen) five lanters. Totatl value of cargo about 100gp
-- 
 ## Enemies
 
 [[bugbear]]
