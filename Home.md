@@ -15,7 +15,7 @@
 |[[currency_exchange]]|
 |[[creature_sizes]]|
 |[[sleep]]|
-|[feats](https://5e.tools/feats.html#artificer%20initiate_tce)|
+|[feats](https://5e.tools/feats.html#artificer%20initiate_tce){:target="_blank"}|
 
 | Adventures              |
 |-------------------------|
