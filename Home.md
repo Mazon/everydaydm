@@ -22,7 +22,7 @@
 | Books                  | Game Master                 | Adventures                  | Something                  |
 |-------------------------|----------------------------|----------------------------|----------------------------|
 | [Dungeon Master Guide](http://10.0.30.2:8083/read/174/pdf){:target="_blank"}|[[players]] |[[LMOP]]
-| [Player Handbook](http://10.0.30.2:8083/read/8/pdf){:target="_blank"}|[[npc]] |
+| [Player Handbook](http://10.0.30.2:8083/read/8/pdf){:target="_blank"}|
 | [Monster Manual](http://10.0.30.2:8083/read/175/pdf){:target="_blank"}|
 | [Guide to Everything](http://10.0.30.2:8083/read/172/pdf){:target="_blank"}|[[music]]
 |                        | [[random_encounters]]  
