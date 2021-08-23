@@ -51,7 +51,8 @@ You spend the last few days following the high road south from neverwinter, and 
 
 ## Intro
 ___
-`You been on the triboar trail for about half a day. As you come around a bend, you spot two dead horses sprawled about fifty feet ahead of you, blocking your path. Each has several black feathered arrows sticking out of it. The woods press close tho the trial here, with a steep embankment and dense thickets on either side`
+
+*You been on the triboar trail for about half a day. As you come around a bend, you spot two dead horses sprawled about fifty feet ahead of you, blocking your path. Each has several black feathered arrows sticking out of it. The woods press close tho the trial here, with a steep embankment and dense thickets on either side*
 ___
 
 ## Objectives
