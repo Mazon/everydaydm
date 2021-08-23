@@ -1,4 +1,4 @@
-| Lookup                  | Inventory                  | Combat                     | Locations          |Books
+| Lookup                  | Inventory                  | Combat                     | Locations          |x
 |-------------------------|----------------------------|----------------------------|--------------------|------
 |[[vision]]               |[[weapons]]                 |[[battlefield]]             |[[swordcoast]]      |
 |[[ability_and_skills]]   |[[armor]]                   |[[combat_rules]]            |[[tinear]]          |         
