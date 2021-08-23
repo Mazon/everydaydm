@@ -3,6 +3,7 @@
 ## NPC
 - [[sildar]]
 - [[gundren]]
+
 ## Locations
 
 ## Enemies
