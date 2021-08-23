@@ -8,7 +8,7 @@
 |[[exhaustion]]           |[[food_drinks_lodging]]     |[[two-weapon-fighting]]    |                       |       | [[players]]
 |[[traveling]]            |[[lifestyle]]               |[[grappling]]               |                      |       | [[notes]]
 |[[random_encounter_chance]]|[[containers]]            |[[shoving]]                 |                      |       | [[music]]
-|[[conditions]]           |[[magic_items]]             |[[readying]]                |                      |[[random_encounters]]        |  
+|[[conditions]]           |[[magic_items]]             |[[readying]]                |                    |[[random_encounters]]|  
 |[[resting]]              | [[trade_goods]]            |     |
 |[spells](https://colinmarc.com/dndspells/){:target="_blank"}|
 |[[character_advancement]]|
