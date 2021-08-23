@@ -1,4 +1,4 @@
-| Lookup                  | Inventory                  | Combat                     | Locations          |Random
+| Lookup Tables           | Inventory                  | Combat                     | Locations          |Random
 |-------------------------|----------------------------|----------------------------|--------------------|------
 |[[vision]]               |[[weapons]]                 |[[battlefield]]             |[[swordcoast]]      |
 |[[ability_and_skills]]   |[[armor]]                   |[[combat_rules]]            |[[tinear]] |[treasure](https://donjon.bin.sh/5e/random/#type=treasure)         
