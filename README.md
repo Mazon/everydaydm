@@ -4,6 +4,8 @@ Disclaimer: For my personal usage. I dont take credit to have created all conten
 
 Everydaydm make use of [gollum wiki](https://github.com/gollum/gollum) a simple wiki system built on top of git.
 
+![](./media.png)
+
 # Usage
 
 1. Install gollum
