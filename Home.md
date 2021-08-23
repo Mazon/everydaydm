@@ -10,7 +10,7 @@
 |[[random_encounter_chance]]|[[containers]]            |[[shoving]]                 |
 |[[conditions]]           |[[magic_items]]             |[[readying]]                |
 |[[resting]]              | [[trade_goods]]            |     |
-|[[spells](https://colinmarc.com/dndspells/){:target="_blank"}|
+|[spells](https://colinmarc.com/dndspells/){:target="_blank"}|
 |[[character_advancement]]|
 |[[currency_exchange]]|
 |[[creature_sizes]]|
