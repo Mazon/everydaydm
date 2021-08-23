@@ -1,7 +1,7 @@
 ## GM
 
 ## NPC
-
+[[sildar]]
 ## Locations
 
 ## Enemies
