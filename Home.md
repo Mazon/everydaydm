@@ -16,8 +16,6 @@
 |[[creature_sizes]]|
 |[[sleep]]|
 |[[feats]]|
-|[[dodge]]| 
-|[[conversations]]| |
 
 | Adventures              |
 |-------------------------|
