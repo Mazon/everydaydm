@@ -1,8 +1,8 @@
 ## GM
 
 ## NPC
-[[sildar]]
-[[gundren]]
+- [[sildar]]
+- [[gundren]]
 ## Locations
 
 ## Enemies
