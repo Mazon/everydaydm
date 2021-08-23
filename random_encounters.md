@@ -1,7 +1,6 @@
 ## Encounters
 
-http://kobold.club/fight/#/encounter-builder
-https://donjon.bin.sh/5e/random/#type=encounter
+[random-enemies](https://donjon.bin.sh/5e/random/#type=encounter)
 
 ### things of wonder
 
