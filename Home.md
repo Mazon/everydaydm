@@ -6,9 +6,9 @@
 |[[languages]]            |[[potions]]                 |[[dying]]                   |  |[village](https://watabou.itch.io/village-generator){:target="_blank"}  | [Guide to Everything](http://10.0.30.2:8083/read/172/pdf){:target="_blank"}
 |[[cover_and_stealth]]    |[[gear]]                    |[[concentration]]           || [dungeon](https://watabou.itch.io/one-page-dungeon){:target="_blank"}
 |[[exhaustion]]           |[[food_drinks_lodging]]     |[[two-weapon-fighting]]    |                       |       | [[players]]
-|[[traveling]]            |[[lifestyle]]               |[[grappling]]               |
-|[[random_encounter_chance]]|[[containers]]            |[[shoving]]                 |
-|[[conditions]]           |[[magic_items]]             |[[readying]]                |
+|[[traveling]]            |[[lifestyle]]               |[[grappling]]               |                      |       | [[notes]]
+|[[random_encounter_chance]]|[[containers]]            |[[shoving]]                 |                      |       | [[music]]
+|[[conditions]]           |[[magic_items]]             |[[readying]]                |                      |       |  [[random_encounters]] 
 |[[resting]]              | [[trade_goods]]            |     |
 |[spells](https://colinmarc.com/dndspells/){:target="_blank"}|
 |[[character_advancement]]|
@@ -22,9 +22,9 @@
 | Books                  | Game Master                 | Adventures                  |
 |-------------------------|----------------------------|----------------------------|
 | | |[[LMOP]]
-| |[[notes]]
-| |[[music]]
-|| [[random_encounters]]  
+|
+| 
+|| 
 |                        |
 
 
