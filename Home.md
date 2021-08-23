@@ -1,6 +1,6 @@
 | Lookup                  | Inventory                  | Combat                     | Locations          |Random
 |-------------------------|----------------------------|----------------------------|--------------------|------
-|[[vision]]               |[[weapons]]                 |[[battlefield]]             |[[swordcoast]]      |[[random_locations]]
+|[[vision]]               |[[weapons]]                 |[[battlefield]]             |[[swordcoast]]      |
 |[[ability_and_skills]]   |[[armor]]                   |[[combat_rules]]            |[[tinear]] |[treasure](https://donjon.bin.sh/5e/random/#type=treasure)         
 |[[traps]]                |[[mounts_and_vehicles]]     |[[damage]]                  |[[neverwinter]]     |[magic shop](https://donjon.bin.sh/5e/magic/shop.html)
 |[[languages]]            |[[potions]]                 |[[dying]]                   |  |[village](https://watabou.itch.io/village-generator)
